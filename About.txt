@@ -1,0 +1,31 @@
+How to use the Haro Searcher
+
+1. Click "Grab recent newsletter"
+
+2. Click on the white box right below "Keywords"
+
+3. Type in your keywords (not case sensitive) making sure to hit "enter" after each word
+	
+4. Click on the button at the bottom which says "Search" on it
+
+5. The results will pop up
+
+6. Click on "Default Search" for a search of default news/buisness outlets
+	
+7. If you close the application the recent newsletter will still be registered
+
+	
+
+Troubleshooting:
+
+3a. If you want to delete a keyword
+		-Either click on the keyword or hit "Clear Keys"
+3b. If the words in the box are lower case
+		-That working as intended the searcher looks for both lower and upper 
+	
+5a. If the document is empty
+		-No keywords were found
+		-Close out of the pop-up to search again
+7a. If Grab recent newsletter" was clicked earlier  
+		-Clicking it again is not necessary
+
